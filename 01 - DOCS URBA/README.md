@@ -1,0 +1,1 @@
+# Les styles sont appliqués sur le standrad CNIG 2014 avec des noms de champs en minuscule
